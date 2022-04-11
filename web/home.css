@@ -1,0 +1,67 @@
+
+#d1
+{
+    height: 80px;
+    left: 0%;
+    width: 100%;
+    background-color:orange;
+    position: fixed;
+    top: 0px;
+}
+.anchor
+{
+     display: inline-block; 
+}
+#name
+{
+    position: fixed;
+    color:black;
+    font-family:serif;
+    left: 10px;
+    top:20px;
+    font-size: 30px;
+    text-shadow: 5px 5px 5px red;
+}
+#a3:link
+{
+    left: 80%;
+}
+
+#a1:link
+{
+    left: 86%;
+}
+
+#a2:link
+{
+    left: 91%;
+}
+
+#a4:link
+{
+    left: 73%;
+}
+
+.c1:link
+{
+    position:fixed;
+    color:black;
+    top:40px;
+    text-decoration: none;
+}
+.c1:hover
+{
+    color:white;
+}
+#location:link
+{
+    left:63.7%;
+}
+
+#d3
+{
+    margin-top:  85px;
+   margin-left: 0px;
+   margin-right: 0px;
+   margin-bottom: 0px;
+}
